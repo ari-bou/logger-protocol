@@ -1,7 +1,7 @@
-# logger-protocol
+# Logger Protocol
 Python protocol for the standard lib Logger and Logger-like classes.
 
-```
+```python
 import logging
 
 from logger_protocol import LoggerProtocol, SilentLogger
